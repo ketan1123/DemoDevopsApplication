@@ -11,7 +11,7 @@
 	<groupId>com.demo</groupId>
 	<artifactId>DemoDevops</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>DemoDevops</name>
+	<name>demo_devops</name>
 	<description>Demo project for Docker, Kubernetes and Jenkins </description>
 	<url/>
 	<licenses>
